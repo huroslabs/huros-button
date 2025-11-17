@@ -1,5 +1,5 @@
 /* 
- * Copyright HUROS TECH
+ * Copyright HUROS LABS
  * Maintenance Danmirror
  * Year 2024
  * 
